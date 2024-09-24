@@ -9,5 +9,6 @@ act11 examen U I
 
 -RESULTADO
 
--![image](https://github.com/user-attachments/assets/bc192f7a-6324-43f6-8fd8-bc711fbf19ce)
+-![image](https://github.com/user-attachments/assets/adb3494b-4d45-428b-a5f4-a9dc93622710)
+
 
