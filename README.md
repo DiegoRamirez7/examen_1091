@@ -3,7 +3,8 @@ act11 examen U I
 
 -CODIGO
 
--![image](https://github.com/user-attachments/assets/c8baa3e1-1790-43a3-9b85-a6c413def630)
+-![image](https://github.com/user-attachments/assets/7f55fa81-f3f0-432c-a826-3f58c68b687e)
+
 
 
 -
@@ -11,7 +12,7 @@ act11 examen U I
 
 -RESULTADO
 
--![image](https://github.com/user-attachments/assets/0a1c2231-7d8a-4713-9172-78739ac99971)
+-![image](https://github.com/user-attachments/assets/26bdbd45-76b3-4b20-a3de-206344c1575c)
 
 
 
