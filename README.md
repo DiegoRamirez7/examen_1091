@@ -3,12 +3,14 @@ act11 examen U I
 
 -CODIGO
 
--![image](https://github.com/user-attachments/assets/8d1a0f86-9d04-4038-8fa1-3b11050a8719)
+-![image](https://github.com/user-attachments/assets/171a9c9f-f82e-46fb-970a-1493f8a44034)
+
 -
-![image](https://github.com/user-attachments/assets/1e2b4a3b-7a85-40a1-91ac-40dda82ca8e0)
+![image](https://github.com/user-attachments/assets/09b5ca08-6ab5-438c-99e8-8d3369590d88)
 
 -RESULTADO
 
--![image](https://github.com/user-attachments/assets/adb3494b-4d45-428b-a5f4-a9dc93622710)
+-![image](https://github.com/user-attachments/assets/0a1c2231-7d8a-4713-9172-78739ac99971)
+
 
 
